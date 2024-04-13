@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-red-node-twitter": "^1.2.0"
+  }
+}
